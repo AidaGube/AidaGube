@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+
 
 <h1 align="center"> Yo! It’s always a pleasure to see you <img src="https://media.tenor.com/XyfkuomEwj4AAAAi/hello.gif" width="40"  alt="hi" /> </h1>
 
