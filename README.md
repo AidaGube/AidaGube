@@ -53,10 +53,10 @@ My name is Aida, I am a passionate Frontend Developer <img src="https://media.te
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=aidagube&layout=compact&theme=vision-friendly-dark" />
+      <img height="180px" align="right" alt="webDev's Github Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=aidagube&layout=compact&theme=vision-friendly-dark" />
     </td>
     <td>
-      <img height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidagube&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="aidagube" />
+      <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidagube&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="aidagube" />
     </td>
   </tr>
 </table>
