@@ -12,7 +12,7 @@ My name is Aida, I am a passionate Frontend Developer <img src="https://media.te
 
 ---
 
-### 🤝 Social network :
+### 🤝 Connect with me :
 
   <div id="badges">
   <a href="mailto: aidagube@mail.com" target="_blank">
