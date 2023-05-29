@@ -1,9 +1,9 @@
 
-<h1 align="center"> Hi, guys <img src="https://media.tenor.com/XyfkuomEwj4AAAAi/hello.gif" width="40"  alt="hi" /> </h1>
+<h1 align="center"> Hi, guys! Welcome to my page <img src="https://media.tenor.com/XyfkuomEwj4AAAAi/hello.gif" width="40"  alt="hi" /> </h1>
 
 <!-- <p align="center"><img src="https://media.tenor.com/LtF6lgB8FdsAAAAi/mochi-peach.gif" width="200"  alt="hi" /></p> -->
 <!-- <img src="https://media.tenor.com/mKMXJtjSv7YAAAAi/peachcat-new.gif" width="40"  alt="hi" /> -->
-<p align="center">Welcome to my page!</p>
+
 ![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
 ---
