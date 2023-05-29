@@ -1,5 +1,5 @@
 
-<h1 align="center"> Yo! It’s always a pleasure to see you <img src="https://media.tenor.com/XyfkuomEwj4AAAAi/hello.gif" width="40"  alt="hi" /> </h1>
+<h1 align="center"> Hi, guys! <img src="https://media.tenor.com/XyfkuomEwj4AAAAi/hello.gif" width="40"  alt="hi" /> </h1>
 
 <!-- <p align="center"><img src="https://media.tenor.com/LtF6lgB8FdsAAAAi/mochi-peach.gif" width="200"  alt="hi" /></p> -->
 <!-- <img src="https://media.tenor.com/mKMXJtjSv7YAAAAi/peachcat-new.gif" width="40"  alt="hi" /> -->
