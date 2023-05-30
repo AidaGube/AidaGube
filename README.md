@@ -52,7 +52,7 @@ My name is Aida, I am a passionate Frontend Developer <img src="https://media.te
 ---
 
 ### ⚙️ My Stats :
- <img height="250px" align="right" alt="webDev's Github Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=aidagube&layout=compact&theme=vision-friendly-dark" />
+ <img height="200px" align="left" alt="webDev's Github Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=aidagube&layout=compact&theme=vision-friendly-dark" />
       
 <!-- <table>
   <tr>
